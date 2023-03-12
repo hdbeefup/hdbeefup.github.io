@@ -1,0 +1,16 @@
+# Sample Authors
+# Remove file or replace with your own
+
+HDBSTAFF:
+  name: HDBeefup
+  picture: /images/bio-photo-2.jpg
+  twitter: ""
+  links:
+    - title: Twitter
+      url: https://twitter.com
+      icon: fab fa-twitter-square
+
+DW5:
+  name: DW5
+  picture: /images/bio-photo.jpg
+  twitter: 
