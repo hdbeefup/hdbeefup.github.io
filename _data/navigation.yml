@@ -11,4 +11,8 @@
 - title: Search
   url: /search/
 - title: hdbcalc
-  url: /calc.html
+  url: /tools/calc.html
+- title: rehook batch
+  url: /tools/rehook.bat
+- title: rehook x64 exe
+  url: /tools/rehookx64.exe
